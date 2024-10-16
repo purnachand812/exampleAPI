@@ -1,0 +1,17 @@
+h1{
+    color: blueviolet;
+    text-decoration: dotted;
+    text-align: center;
+}
+body{
+    background-color: bisque;
+}
+p{
+    color: aquamarine;
+    text-align: center;
+    background-color: brown;
+
+}
+#b1{
+    background-color: beige;
+}
